@@ -1,4 +1,3 @@
-// script.js
 
 // Function to handle form submission
 function handleSubmit(event) {
